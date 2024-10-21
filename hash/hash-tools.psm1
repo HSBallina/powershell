@@ -1,0 +1,1 @@
+. $PSScriptRoot\verify-hash.ps1
